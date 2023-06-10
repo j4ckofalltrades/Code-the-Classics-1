@@ -17,7 +17,7 @@ https://wireframe.raspberrypi.org/books/code-the-classics1
 
 `brew install portmidi`
 
-4.Install latest pygame from source
+4. Install latest pygame from source
 
 `python3 -m pip install git+https://github.com/pygame/pygame.git`
 
